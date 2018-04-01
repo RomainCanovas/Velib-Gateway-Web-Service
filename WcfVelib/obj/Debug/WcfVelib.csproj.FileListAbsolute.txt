@@ -1,0 +1,9 @@
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\bin\Debug\WcfVelib.dll.config
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\bin\Debug\WcfVelib.dll
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\bin\Debug\WcfVelib.pdb
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\obj\Debug\WcfVelib.csproj.CoreCompileInputs.cache
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\obj\Debug\WcfVelib.csproj.CopyComplete
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\obj\Debug\WcfVelib.dll
+C:\Users\canor\source\repos\WcfVelib\WcfVelib\obj\Debug\WcfVelib.pdb

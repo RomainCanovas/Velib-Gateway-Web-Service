@@ -1,0 +1,9 @@
+C:\Users\canor\source\repos\WcfVelib\GuiApp\bin\Debug\GuiApp.exe.config
+C:\Users\canor\source\repos\WcfVelib\GuiApp\bin\Debug\GuiApp.exe
+C:\Users\canor\source\repos\WcfVelib\GuiApp\bin\Debug\GuiApp.pdb
+C:\Users\canor\source\repos\WcfVelib\GuiApp\obj\Debug\GuiApp.Form1.resources
+C:\Users\canor\source\repos\WcfVelib\GuiApp\obj\Debug\GuiApp.Properties.Resources.resources
+C:\Users\canor\source\repos\WcfVelib\GuiApp\obj\Debug\GuiApp.csproj.GenerateResource.cache
+C:\Users\canor\source\repos\WcfVelib\GuiApp\obj\Debug\GuiApp.csproj.CoreCompileInputs.cache
+C:\Users\canor\source\repos\WcfVelib\GuiApp\obj\Debug\GuiApp.exe
+C:\Users\canor\source\repos\WcfVelib\GuiApp\obj\Debug\GuiApp.pdb
