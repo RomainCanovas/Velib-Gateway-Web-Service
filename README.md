@@ -15,7 +15,6 @@ REST and SOAP WS Lab
 
 Ouvrir le projet en ayant au préalablement lancé VS en mode administrateur.
 Démarrer ConsoleApp ou GuiApp qui ouvrent respectivement le MVP
-et l'extension interface graphique. Comme précisé ci-dessus les
+ou l'interface graphique. Comme précisé ci-dessus les
 méthodes asynchrones ne sont appelées que dans la version GUI.
-Enfin, le cache implémenté dans WcfVelib permet de ne pas faire 
-plusieurs fois les mêmes requête.
+Enfin, le cache implémenté dans WcfVelib permet de stocker les réponses aux requêtes déjà traitées afin de les retourner sans faire une nouvelle requête.
