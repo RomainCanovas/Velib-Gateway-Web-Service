@@ -1,0 +1,18 @@
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\ClassLibraryWCF.dll
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\ClassLibraryWCF.pdb
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\EventsLib.csprojResolveAssemblyReference.cache
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\EventsLib.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\EventsLib.csproj.CopyComplete
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\ClassLibraryWCF.dll
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\ClassLibraryWCF.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\bin\Debug\ClassLibraryWCF.dll
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\bin\Debug\ClassLibraryWCF.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\obj\Debug\EventsLib.csprojResolveAssemblyReference.cache
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\obj\Debug\EventsLib.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\obj\Debug\EventsLib.csproj.CopyComplete
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\obj\Debug\ClassLibraryWCF.dll
+C:\Users\canor\Desktop\Nouveau dossier\EventsLib\obj\Debug\ClassLibraryWCF.pdb

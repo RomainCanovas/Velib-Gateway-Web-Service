@@ -1,0 +1,11 @@
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClientToLaunchHost.exe.config
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClientToLaunchHost.exe
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClientToLaunchHost.pdb
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClassLibraryWCF.dll
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\Newtonsoft.Json.dll
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClassLibraryWCF.pdb
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\Newtonsoft.Json.xml
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\ClientToLaunchHost.csprojResolveAssemblyReference.cache
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\ClientToLaunchHost.csproj.CoreCompileInputs.cache
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\ClientToLaunchHost.exe
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\ClientToLaunchHost.pdb

@@ -1,0 +1,6 @@
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ConsoleClient\obj\Debug\ConsoleClient.pdb

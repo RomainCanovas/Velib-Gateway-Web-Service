@@ -1,0 +1,8 @@
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\ClassLibraryWCF.dll
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\ClassLibraryWCF.pdb
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\Newtonsoft.Json.dll
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\bin\Debug\Newtonsoft.Json.xml
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\ClassLibraryWCF.csprojResolveAssemblyReference.cache
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\ClassLibraryWCF.csproj.CoreCompileInputs.cache
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\ClassLibraryWCF.dll
+D:\event\Web-Service-Eventing-master\Web-Service-Eventing-master\ClassLibraryWCF\obj\Debug\ClassLibraryWCF.pdb

@@ -1,0 +1,24 @@
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClientToLaunchHost.exe.config
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClientToLaunchHost.exe
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClientToLaunchHost.pdb
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClassLibraryWCF.dll
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\ClassLibraryWCF.pdb
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\EventsHost.csprojResolveAssemblyReference.cache
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\EventsHost.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\EventsHost.csproj.CopyComplete
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\ClientToLaunchHost.exe
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ClientToLaunchHost\obj\Debug\ClientToLaunchHost.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\ClientToLaunchHost.exe.config
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\ClientToLaunchHost.exe
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\ClientToLaunchHost.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\ClassLibraryWCF.dll
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\ClassLibraryWCF.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\obj\Debug\EventsHost.csprojResolveAssemblyReference.cache
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\obj\Debug\EventsHost.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\obj\Debug\EventsHost.csproj.CopyComplete
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\obj\Debug\ClientToLaunchHost.exe
+C:\Users\canor\Desktop\Nouveau dossier\EventsHost\obj\Debug\ClientToLaunchHost.pdb

@@ -1,0 +1,14 @@
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\obj\Debug\EventsClient.csprojResolveAssemblyReference.cache
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\obj\Debug\EventsClient.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\canor\Desktop\Rest-and-SOAP-WS-Lab-Web-Service-Eventing\Web-Service-Eventing-master\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\bin\Debug\ConsoleClient.exe
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\bin\Debug\ConsoleClient.pdb
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\obj\Debug\EventsClient.csprojResolveAssemblyReference.cache
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\obj\Debug\EventsClient.csproj.CoreCompileInputs.cache
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\obj\Debug\ConsoleClient.exe
+C:\Users\canor\Desktop\Nouveau dossier\EventsClient\obj\Debug\ConsoleClient.pdb
