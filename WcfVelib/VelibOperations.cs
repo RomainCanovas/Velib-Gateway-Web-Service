@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using System.Threading;
+using System.Timers;
 
 namespace WcfVelib
 {
@@ -16,9 +17,23 @@ namespace WcfVelib
         Boolean firstConnection = true;
         public const int DelayMilliseconds = 10000;
 
+        DateTime connexionDate = DateTime.Now;
+        TimeSpan interval = new TimeSpan(2, 0, 0);
+        TimeSpan cityInterval = new TimeSpan(60, 0, 0);
+        DateTime endDate;
+
 
         public string[] GetCities()
         {
+            endDate = connexionDate + cityInterval;
+            DateTime dateToCompare = DateTime.Now;
+            int result = DateTime.Compare(endDate, dateToCompare);
+            if (result < 0)
+            { 
+                firstConnection = true;
+                connexionDate = DateTime.Now;
+            }
+
             if (firstConnection == false)
             {
                 return cityCache;
@@ -43,6 +58,12 @@ namespace WcfVelib
 
         public string[] GetStations(string city)
         {
+            endDate = connexionDate + interval;
+            DateTime dateToCompare = DateTime.Now;
+            int result = DateTime.Compare(endDate, dateToCompare);
+            if (result < 0)
+                cache.Clear();
+
             if (cache.ContainsKey(city))
             {
                 return cache[city];
